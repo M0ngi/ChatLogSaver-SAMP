@@ -6,7 +6,7 @@
 """
 
 __author__      = "M. Mongi Saidane"
-__version__     = "1.0"
+__version__     = "0.2"
 __email__       = "saidanemongi@gmail.com"
 
 from win32com.client import GetObject
