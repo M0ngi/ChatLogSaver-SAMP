@@ -1,7 +1,7 @@
 """
 
     This script would save your chatlogs right after leaving the game.
-    Log files would be found in 'Documents/GTA San Andreas User Files/SavedLogs/'
+    Log files would be found in 'Documents/GTA San Andreas User Files/SavedLogs/' by default.
 
 """
 
